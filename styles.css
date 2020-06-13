@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    padding: 3em;
+}
+
+.row {
+    float: left;
+    height: 100px;
+    width: 100px;
+    clear: both;
+    margin: 0 auto;
+}
